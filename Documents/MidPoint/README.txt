@@ -1,1 +1,0 @@
-To open the game simply the "Tales of Atheria" folder and double tap the application named "Game"
